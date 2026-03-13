@@ -1,0 +1,4 @@
+:root { color-scheme: light; }
+button { padding: 8px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer; }
+button:hover { background: #f6f6f6; }
+input { outline: none; }
